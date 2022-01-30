@@ -1,13 +1,17 @@
 .header-2TLOnc, .header-2TLOnc.fm-header {
-  border-bottom-width: 20px;
-  border-bottom-color: rgba(0, 0, 0, 1.0);
+  left: 0px;
+  top: 65px;
+  padding-top: 15px;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: rgb(18, 18, 18);
   height: relative; 32px;!important
   width: relative; 400px;
-  position: relative; left: -5px; top: 69px;
-  margin-bottom: 60px;
+  position: relative; top: 64px;
+  margin-bottom: 15px;
   padding-bottom: 0px;
 }
-.header-2TLOnc {
-  align: top;
-  border-width: 50px;!important
+
+.container-3eG4QA {
+  margin-top: 52px;
 }
