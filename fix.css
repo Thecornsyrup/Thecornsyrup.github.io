@@ -1,10 +1,13 @@
+:root {
+  --border-colour-fix:  #121212;
+}
 .header-2TLOnc, .header-2TLOnc.fm-header {
   left: 0px;
   top: 65px;
   padding-top: 15px;
   border-top-width: 1px;
   border-top-style: solid;
-  border-top-color: rgb(18, 18, 18);
+  border-top-color: var(--border-colour-fix);
   height: relative; 32px;!important
   width: relative; 400px;
   position: relative; top: 64px;
@@ -14,4 +17,10 @@
 
 .container-3eG4QA, .results-2CQlZp {
   margin-top: 52px;
+}
+
+.nav-1zWVQw {
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: var(--border-colour-fix);
 }
