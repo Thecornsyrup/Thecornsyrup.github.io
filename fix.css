@@ -31,14 +31,27 @@
   bottom: 0px;
   top: 0px;
 }
-.listItems-6eZzQ1 {
-  margin-top: 40px;
-}
 #emoji-picker-tab-panel > div.emojiPicker-6YCk8a > div.header-11eigE {
   width: 300px;
+  margin-bottom: 40px;
   margin-left: 0px;
   padding-left: 0px;
   padding-right: 0px;
   border-left: 0px;
+  position: relative; top: 55px; left: 55px;
+}
+.container-1SX9VC, .medium-13kyaW, .disabled-2QaYSb {
+  height: 32px;
+  width: 360px;
+  left: 0px;
+  bottom: 0px;
+  top: 0px;
+}
+
+#app-mount > div:nth-child(7) > div > section > div > div.contentWrapper-3vHNP2 > #sticker-picker-tab-panel > div.header-uVCAlo {
+  margin-left: 0px;
+  padding-left: 0px;
+  margin-bottom: 40px;
+  border-left-width: 0px; 
   position: relative; top: 55px; left: 55px;
 }
