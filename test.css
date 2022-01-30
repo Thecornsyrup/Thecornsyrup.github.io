@@ -1,4 +1,4 @@
-.header-2TLOnc.fm-header,  {
+.header-2TLOnc.fm-header {
   border-bottom-width: 20px;
   border-bottom-color: rgba(0, 0, 0, 1.0);
   height: relative; 32px;!important
@@ -6,4 +6,8 @@
   position: relative; left: -5px; top: 69px;
   margin-bottom: 60px;
   padding-bottom: 0px;
+}
+.header-2TLOnc {
+  align: top;
+  border-width: 50px;!important
 }
