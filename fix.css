@@ -25,10 +25,20 @@
   border-right-color: var(--border-colour-fix);
 }
 .searchBar-2M9mRP {
-  position: relative; top: 55px; left: -90px;
   height: 32px;
-  width: 360px;
+  width: 320px;
+  left: 0px;
+  bottom: 0px;
+  top: 0px;
 }
 .listItems-6eZzQ1 {
   margin-top: 40px;
+}
+#emoji-picker-tab-panel > div.emojiPicker-6YCk8a > div.header-11eigE {
+  width: 300px;
+  margin-left: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  border-left: 0px;
+  position: relative; top: 55px; left: 55px;
 }
